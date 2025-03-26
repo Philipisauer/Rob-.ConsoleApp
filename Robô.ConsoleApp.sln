@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robô.ConsoleApp", "Robô.ConsoleApp\Robô.ConsoleApp.csproj", "{542C9D1B-0649-454F-8A65-0E694D0E7A90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542C9D1B-0649-454F-8A65-0E694D0E7A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542C9D1B-0649-454F-8A65-0E694D0E7A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542C9D1B-0649-454F-8A65-0E694D0E7A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542C9D1B-0649-454F-8A65-0E694D0E7A90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7E5492D-251A-436F-9379-F0FBA0D6CA2D}
+	EndGlobalSection
+EndGlobal
